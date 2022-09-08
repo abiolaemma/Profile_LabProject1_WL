@@ -79,14 +79,11 @@
 ## <u>Connect with me:</u>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbrightdev/)
-[![Polywork](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)](https://www.polywork.com/jbright_dev)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jbright.dev@outlook.com)
-
+[![Medium](https://img.shields.io/badge/Medium-543DE0?style=for-the-badge&logo=medium&logoColor=black)](https://https://medium.com/@abiolaemma2014)
+[![Twitter](https://img.shields.io/badge/twitter-0078D4?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Emma20162016)
+[![Instagram](https://img.shields.io/badge/instagram-0078D4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/godwithmeh/)
 <hr>
 <br>
 
-### <p align="center"> *“Patience is not passive waiting. Patience is active acceptance of the process required to achieve your goals and dreams.” - Ray A. Davis* </p>
+### <p align="center"> “What is worth doing at all is worth doing well.” - Anonymous * </p>
 
-<br>
-
-<p align="center"><a href="Brand on White Signature.png" target="blank"><img alignment="center" src="Brand on White Signature.png" height="200" width="" /></a></p>
