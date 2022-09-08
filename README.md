@@ -1,4 +1,6 @@
-# <p align="center"> <b>Hey there,  I'm Emmanuel</b> 
+# <p align="center"> <b>Hi,  I'm Emmanuel</b> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width= "28px" alt="Hi">
+
+<p align="center">
 
 ## <u>My Tech Stack:</u>
 
@@ -70,8 +72,8 @@
 
 
 <p align="center">
-<img height="207em" src="https://github-readme-stats.vercel.app/api?username=jbright-dev&theme=nord&hide_border=true" align = "center"/>
-<img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbright-dev&theme=nord&hide_border=true&layout=compact" align = "center"/>
+<img height="207em" src="https://github-readme-stats.vercel.app/api?username=abiolaemma&theme=nord&hide_border=true" align = "center"/>
+<img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiolaemma&theme=nord&hide_border=true&layout=compact" align = "center"/>
 </p>	
 	
 <hr>
