@@ -1,4 +1,7 @@
+![Hello Summer! Main_WhiteLettering_diff](https://user-images.githubusercontent.com/42983208/189453572-8142d7b5-5834-47d4-83f7-773bdc9a3b69.gif)
+
 # <p align="center"> <b>Hi,  I'm Emmanuel - happy to have you here! </b> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width= "28px" alt="Hi">
+
 
 <p align="center">
 
