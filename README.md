@@ -80,7 +80,7 @@
 
 ## <u>Connect with me:</u>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jbrightdev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-ogundipe-8bb24772/)
 [![Medium](https://img.shields.io/badge/Medium-543DE0?style=for-the-badge&logo=medium&logoColor=black)](https://https://medium.com/@abiolaemma2014)
 [![Twitter](https://img.shields.io/badge/twitter-0078D4?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Emma20162016)
 [![Instagram](https://img.shields.io/badge/instagram-0078D4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/godwithmeh/)
